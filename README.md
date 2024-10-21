@@ -71,5 +71,5 @@ void main()
 ## OUTPUT:
 ![alt text](Ex-1.png)
 
-## Result:
+## RESULT:
 The program is executed successfully
